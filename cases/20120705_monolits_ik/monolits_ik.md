@@ -1,4 +1,4 @@
-no dzintra@monolits.lv
+No: Santa 25921378, dzintra@monolits.lv, Hostings: tere.lv;
 
 # WHOIS dati:
 
