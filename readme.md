@@ -20,7 +20,7 @@ Latvijā darbojas likumi un noteikumi, kas atļauj sūtīt komercpiedāvājumus.
 
 ## Cik ilgi e-pasts atradīsies sarakstā?
 
-5 gadus.
+Līdz pamatotam iemeslam.
 
 # Saites
 
