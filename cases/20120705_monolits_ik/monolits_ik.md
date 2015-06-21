@@ -1,6 +1,10 @@
 No: Santa 25921378, dzintra@monolits.lv, Hostings: tere.lv;
 
-# WHOIS dati:
+# Dati
+
+Dažādi dati, kas ir brīvi pieejami internetā.
+
+# WHOIS:
 
 ```
 Name: IK Monolits
@@ -9,6 +13,20 @@ Phone: +371 26005548
 Address: Rembisi, Adazu novads, LV-2164, Latvia
 RegNr: 40002154583
 ```
+## Reģistri
+
+resurss: http://www.firmas.lv/profile/monolits-ik/000215458 
+ 
+Uzņēmējdarbības forma: Individuālais komersants
+Reģistrēts nosaukums: IK "Monolīts"
+Reģistrācijas numurs, datums: 40002154583, 26.04.2010
+PVN numurs: Nav 
+Reģistrs, datums: Komercreģistrs
+Juridiskā adrese: Ādažu nov., Baltezers, "Rembīši", LV-2164
+
+### Vēsturiskie nosaukumi
+
+Līdz 03.06.2010 - IK "Mācību centrs Merkurijs" 
 
 # Case
 
