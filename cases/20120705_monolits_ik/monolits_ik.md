@@ -2,17 +2,17 @@ No: Santa 25921378, dzintra@monolits.lv, Hostings: tere.lv;
 
 # WHOIS dati:
 
-`
+```
 Name: IK Monolits
 Email: Email dzintars.rajevs@gmail.com
 Phone: +371 26005548
 Address: Rembisi, Adazu novads, LV-2164, Latvia
 RegNr: 40002154583
-`
+```
 
 # Case
 
-`
+```
 Delivered-To: ***@e-art.lv
 Received: by 10.64.15.100 with SMTP id w4csp179896iec;
         Thu, 5 Jul 2012 05:10:09 -0700 (PDT)
@@ -58,4 +58,4 @@ Content-Type: text/plain;
 	charset="windows-1257"
 Content-Transfer-Encoding: quoted-printable
 
-`
+```
