@@ -2,7 +2,9 @@
 
 no http://rolandinsh.lv/latvijas-spam-sutitaji/ - Spammer list jeb Surogātpastu sūtītāju saraksts. 
 
-# Kādēļ tapis šāds surogātpastu sūtītāju saraksts
+# B.U.J.
+
+## Kādēļ tapis šāds surogātpastu sūtītāju saraksts
 
 Šis surogātpastu sūtītāju saraksts tapis tikai tādēļ, ka manu e-pastu dažādas firmas ir atradušas internetā un ignorējušas privātumu, sākušas piedāvāt savus pakalpojumus, nepajautājot vai mani tas varētu interesēt, ņemot vērā, ka neesmu nekādā veidā saistīts ar šiem sūtītājiem.
 
@@ -12,10 +14,14 @@ Man ikdienā ir jāpārlasa vairāki e-pasti un ja uz katru atnāk viena un tā 
 
 Saraksts ar e-pastiem, kuri pārkāpj privātumu un sūta komercpiedāvājumus. Pieļauju, ka viņi ir tik pat atvērti arī saņemt Jūsu piedāvājumus.
 
-## Kas tiek iekļauts
+## Kas tiek iekļauts sarakstā?
 
 Latvijā darbojas likumi un noteikumi, kas atļauj sūtīt komercpiedāvājumus. Diemžēl daudzi uzskata, ka tos var ignorēt un rīkoties pēc sava prāta.
 
-## Saites
+## Cik ilgi e-pasts atradīsies sarakstā?
+
+5 gadus.
+
+# Saites
 
 http://rolandinsh.lv/latvijas-spam-sutitaji/ 
