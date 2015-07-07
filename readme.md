@@ -25,3 +25,7 @@ Līdz pamatotam iemeslam.
 # Saites
 
 http://rolandinsh.lv/latvijas-spam-sutitaji/ 
+
+# ātrais saraksts, kopš 2015. gada
+
+2015-06-29 info@noderigi.lv Laima Ļitviņenko = IK Biznesa investicijas (jau kopš 2011. gada https://github.com/rolandinsh/spammers/blob/master/cases/20120611_laima_litvinenko/laima_litvinenko.md)
